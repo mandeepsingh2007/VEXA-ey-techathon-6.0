@@ -1,4 +1,4 @@
-# 🚗 VEXA: AI-Native Vehicle Lifecycle Management
+# 🚗 VEXA: Vehicler Executer AI
 
 ![VEXA Banner](https://img.shields.io/badge/Status-Prototype-success?style=for-the-badge) ![Tech](https://img.shields.io/badge/Tech-CrewAI%20%7C%20FastAPI%20%7C%20Flutter-blue?style=for-the-badge) ![AI](https://img.shields.io/badge/AI-Multi--Agent%20System-purple?style=for-the-badge)
 
